@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iface.h": "c",
+        "main.h": "c",
+        "time.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}

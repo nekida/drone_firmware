@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/scheduler.h
+stdint.h
+-
+stdbool.h
+-
+
+/home/nekida/avionica/drone/base_project/src/tasks.c
+scheduler.h
+/home/nekida/avionica/drone/base_project/src/scheduler.h
+stdio.h
+-
+

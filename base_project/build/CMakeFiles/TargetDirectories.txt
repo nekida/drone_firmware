@@ -1,0 +1,3 @@
+/home/nekida/avionica/drone/base_project/build/CMakeFiles/rebuild_cache.dir
+/home/nekida/avionica/drone/base_project/build/CMakeFiles/edit_cache.dir
+/home/nekida/avionica/drone/base_project/build/CMakeFiles/drone_firmware.dir
